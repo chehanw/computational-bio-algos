@@ -1,32 +1,6 @@
 import argparse as ap
 
 
-"""
-1. type hints
-2. One line describing the function
-3. (Optional) Longer description of the function
-4. Args: list arguments, their types, and what they are kind of
-5. Returns: tell the user what is returned by the function
-"""
-
-
-def function_name(args: str):
-    """This is a test function for python formatting rules.
-
-    This is a longer description of what the function does. It will take in the arguments I received from the argument parser and do blah blah blah with them.
-
-    Args:
-        args: blah blah blah.
-
-    Returns:
-        Blah blah blah returns blah blah blah.
-    """
-
-    # Declaring this variable for later use.
-    x = 1
-    return x
-
-
 def count_nucleotides(sequence_filename: str):
     """Counts the number of each nucleotide in a given DNA sequence.
 
