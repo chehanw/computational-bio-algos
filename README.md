@@ -12,3 +12,6 @@ Following [Rosalind's Bioinformatics Stronghold](https://rosalind.info/problems/
 8. [Translating RNA into Protein](https://rosalind.info/problems/prot/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/translation.py)
 9. [Finding a Motif in DNA](https://rosalind.info/problems/subs/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/dna_motif.py)
 10. [Consensus and Profile](https://rosalind.info/problems/cons/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/consensus_and_profile.py)
+11. [Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/mortal_fibonacci.py)
+12. [Overlap Graphs](https://rosalind.info/problems/grph/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/overlap_graphs.py)
+13. [Calculating Expected Offspring](https://rosalind.info/problems/iev/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/expected_offspring.py)
