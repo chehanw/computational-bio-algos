@@ -15,3 +15,4 @@ Following [Rosalind's Bioinformatics Stronghold](https://rosalind.info/problems/
 11. [Mortal Fibonacci Rabbits](https://rosalind.info/problems/fibd/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/mortal_fibonacci.py)
 12. [Overlap Graphs](https://rosalind.info/problems/grph/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/overlap_graphs.py)
 13. [Calculating Expected Offspring](https://rosalind.info/problems/iev/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/expected_offspring.py)
+14. [Calculating Protein Mass](https://rosalind.info/problems/prtm/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/protein_mass.py)
