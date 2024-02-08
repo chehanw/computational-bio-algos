@@ -16,3 +16,6 @@ Following [Rosalind's Bioinformatics Stronghold](https://rosalind.info/problems/
 12. [Overlap Graphs](https://rosalind.info/problems/grph/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/overlap_graphs.py)
 13. [Calculating Expected Offspring](https://rosalind.info/problems/iev/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/expected_offspring.py)
 14. [Calculating Protein Mass](https://rosalind.info/problems/prtm/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/protein_mass.py)
+15. [Finding a Protein Motif](https://rosalind.info/problems/mprt/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/find_protein_motif.py)
+16. [Open Reading Frames](https://rosalind.info/problems/orf/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/dna_to_protein.py)
+17. [Introduction to Random Strings](https://rosalind.info/problems/prob/) | [Solution](https://github.com/chehanw/computational-bio-algos/blob/main/random_string_probability.py)
